@@ -1,0 +1,11 @@
+witter-sentiment-analysis/
+├── main.py
+├── requirements.txt
+├── README.md
+└── src/
+    ├── __init__.py
+    ├── data_loader.py
+    ├── preprocessing.py
+    ├── analysis.py
+    ├── features.py
+    └── modeling.py
